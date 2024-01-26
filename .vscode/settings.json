@@ -1,5 +1,6 @@
 {
   "cSpell.words": [
     "Fastify"
-  ]
+  ],
+  "terminal.integrated.shell.osx" : "/bin/zsh"
 }
